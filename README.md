@@ -1,4 +1,4 @@
-# Practica-5-Regeneacion-de-globulos-rojos
+# Practica 5 regeneracion de globulos rojos
 MDSF
 [README.md](https://github.com/user-attachments/files/23427678/README.md)
 [![Open in MATLAB Online]
