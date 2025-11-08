@@ -1,7 +1,6 @@
+
+
 # Practica 5 regeneracion de globulos rojos
-MDSF
-[README.md](https://github.com/user-attachments/files/23427678/README.md)
-[![Open in MATLAB Online]
 
 # Práctica: Regeneración de glóbulos rojos [Sistema de EDOs]
 
@@ -39,13 +38,11 @@ El sistema se resolvió con los siguientes parámetros de gamma y beta:
 2. beta = [1.650, 0.867, 1.617, 2.615, 1.518, 2.676, 0.891, 2.557, 0.925, 0.089];
 
 y con las siguientes condiciones iniciales:
-1. x1(0) = COLOCAR SUS CONDICIONES INICIALES;
-2. x2(0) = COLOCAR SUS CONDICIONES INICIALES;
-3. x3(0) = COLOCAR SUS CONDICIONES INICIALES;
+1. x1(0) = 59.1475   58.6798   58.4196   58.5401   58.7266   58.7363   59.0697   58.8425   59.4024   58.9053;
+2. x2(0) = 44.1100   43.7612   43.5671   43.6570   43.7961   43.8033   44.0520   43.8825   44.3001   43.9294;
+3. x3(0) = 887.2127  880.1969  876.2933  878.1016  880.8991  881.0446  886.0455  882.6370  891.0364  883.5792;
 
-
-
-Palabras clave: ?; ?; ?; ?; ?.
+Palabras clave: REGENRACION DE GLOBULOS ROJOS, TRANSFUSION SANGUINEA, SISTEMA DE EDOS, MODELO MATEMATICO, SIMULACIONES NUMERICAS
 
 ## Lista de archivos incluidos en el repositorio
 
